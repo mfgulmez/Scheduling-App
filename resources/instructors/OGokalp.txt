@@ -1,0 +1,4 @@
+Thursday;09:45;CENG112(Section-B);D1;
+Thursday;10:45;CENG112(Section-B);D1;
+Thursday;13:30;CENG112(Section-B);D1;
+Thursday;13:30;CENG111(Section-B);D1;

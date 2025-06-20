@@ -1,0 +1,6 @@
+Tuesday;13:30;CENG113M; ;
+Tuesday;13:30;CENG113M; ;
+Tuesday;14:30;CENG113M; ;
+Tuesday;15:30;CENG113M; ;
+Friday;13:30;CENG113M(LAB); ;
+Friday;14:30;CENG113M(LAB); ;

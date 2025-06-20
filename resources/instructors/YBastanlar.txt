@@ -1,0 +1,3 @@
+Monday;13:30;CENG218(Section-B);D5;
+Monday;14:30;CENG218(Section-B);D5;
+Monday;15:30;CENG218(Section-B);D5;
