@@ -38,3 +38,9 @@ SchedulingApp/
 ├── output/ # Folder for generated PDF/Excel files
 └── Main.java # Entry point of the application
 ```
+## Example Result Previews
+### PDF
+![image](https://github.com/user-attachments/assets/fa615f72-b35f-4baf-bd94-e5a8ee0560f9)
+### Excel
+![image](https://github.com/user-attachments/assets/152cc9d4-2c66-450e-aade-69b61ce2ed55)
+
