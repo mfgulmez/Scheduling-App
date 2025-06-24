@@ -23,7 +23,7 @@ A Java-based scheduling application that allows users to generate and export sch
 - MVC & Strategy patterns
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 SchedulingApp/
