@@ -2,8 +2,6 @@
 
 A Java-based scheduling application that allows users to generate and export schedules (e.g., classes, work shifts) in PDF or Excel format. Built with JavaFX for GUI interaction and utilizes MVC and Strategy design patterns for extensibility and maintainability.
 
----
-
 ## Features
 
 -  Load schedule data from plain `.txt` files
